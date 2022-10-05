@@ -1,3 +1,5 @@
+/**********Tag Selectors*******/
+
 h1 {
 
   color: green;
@@ -6,4 +8,15 @@ h1 {
 
 img {
   background: yellow;
+}
+
+
+/**********Class Selectors*******/
+
+.bacon {
+  background-color: green;
+}
+
+.brocoli {
+  background-color: red;
 }
